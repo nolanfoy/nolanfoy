@@ -1,4 +1,6 @@
-Hi, I am Nolan Foy, and this is my personal README for my profile, and for my Signature Work Portfolio. 
+Hi, I am Nolan Foy, and this is my personal README for my profile, and for my Signature Work Portfolio.
+I am currently in my last semester at St. Thomas, and I will be working for Optum in late January after graduation. 
+
 Here, I will list and describe 3 projects of mine that I have made over my time at St. Thomas that encapsulate some of the things I've learned here. 
 
 1. Personal Website
@@ -13,4 +15,5 @@ Here, I will list and describe 3 projects of mine that I have made over my time 
   - Project site: https://nolanfoy.github.io/CreativeCodingFinal/index.html
  
 3. Dynamic Server Project
- - RELATES TO SUSTAINABILITY
+ - This is from an assignment in Web Development with my group Andrew Steichen, and Mitchell Covey, where we made a dynamic server.
+ - Repository: https://github.com/nolanfoy/project2-dynamic-server
