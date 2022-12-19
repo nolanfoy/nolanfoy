@@ -1,5 +1,12 @@
 Hi, I am Nolan Foy, and this is my personal README for my profile, and for my Signature Work Portfolio.
-I am currently in my last semester at St. Thomas, and I will be working for Optum in late January after graduation. 
+I am currently in my last semester at St. Thomas, and I will be working for Optum in late January after graduation after I had interned with them over 
+the summer of 2022. 
+
+In my free time I like to play basketball, volleyball, and other sports, as well as watch them, and I am a huge Vikings fan. I also like to go out with my friends, 
+try new drinks, and play video games. 
+
+I first got into coding when I was a freshman in high school and took an introduction to computer programming class. I really liked it right away, and I pretty much
+decided what I was going to go into right after that. 
 
 Here, I will list and describe 3 projects of mine that I have made over my time at St. Thomas that encapsulate some of the things I've learned here. 
 
